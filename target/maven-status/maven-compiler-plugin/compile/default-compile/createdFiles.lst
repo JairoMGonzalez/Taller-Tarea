@@ -1,0 +1,6 @@
+com\jdc\tareas\service\TareaService.class
+com\jdc\tareas\rest\TareaController.class
+com\jdc\tareas\service\implement\TareaServiceImpl.class
+com\jdc\tareas\repository\TareaRepository.class
+com\jdc\tareas\TareasApplication.class
+com\jdc\tareas\model\Tarea.class
